@@ -1,0 +1,12 @@
+.search {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 15px 0;
+  }
+
+.STARS {
+display : flex;
+flex-direction :row;
+padding-top: 7px;
+}
